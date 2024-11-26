@@ -1,0 +1,71 @@
+To create a proper README file for your To-Do List project on GitHub, follow this outline:
+
+---
+
+# ToDo-List
+
+**Plan Your Day Easily!**
+
+This is a simple and user-friendly To-Do List application that helps you organize and manage your tasks efficiently. Built using **HTML**, **CSS**, and **JavaScript**, the application offers features to add, sort, and manage tasks seamlessly.
+
+---
+
+## Features
+
+- Add new tasks with:
+  - Task name
+  - Due date
+  - Time
+  - Category
+  - Priority level
+- Sort tasks by category or priority.
+- A live task counter to keep track of total tasks.
+- Beautiful gradient background and responsive UI.
+- Navigation to the main menu.
+
+---
+
+## Technologies Used
+
+- **HTML**: For structuring the web page.
+- **CSS**: For styling the application.
+- **JavaScript**: For task management and interactivity.
+
+---
+
+## How to Use
+
+1. Clone or download the repository:
+   ```bash
+   git clone <repository-link>
+   ```
+2. Open `Todo.html` in your web browser.
+3. Add tasks by entering details in the input fields and clicking **Add Tasks**.
+4. Use the buttons to sort tasks or filter by category.
+
+---
+
+
+
+---
+
+## Contributing
+
+Feel free to submit issues or pull requests to improve this project. Contributions are always welcome!
+
+---
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
+
+---
+
+## Author
+
+**Yashitha Dissanayaka**  
+Created with ❤️ by a junior web developer passionate about simple and effective web solutions.
+
+---
+
+Let me know if you'd like any changes or additions!
